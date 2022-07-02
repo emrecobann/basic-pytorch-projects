@@ -1,1 +1,1 @@
-My machine learning projects and most college sophomore homework
+My machine learning projects and assignments
